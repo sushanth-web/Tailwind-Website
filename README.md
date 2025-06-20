@@ -7,7 +7,7 @@ Welcome to the **Tailwind CSS Course Landing Page** project! This is a modern, r
 ## 🌐 Live Demo
 
 👉 **Check out the deployed version here:**  
-🔗 [Add your deployed link here](https://your-deployed-site.com)
+🔗 https://tailwind-website-psi.vercel.app/
 
 ---
 
